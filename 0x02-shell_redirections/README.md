@@ -12,3 +12,4 @@ a script that deletes all the regular files with a .js extension that are presen
 \na script that counts the number of directories and sub-directories in the current directory.
 \n a script that displays the 10 newest files in the current directory.
 \na script that takes a list of words as input and prints only words that appear exactly once.
+\nDisplays lines containing the pattern “root” from the file /etc/passwd
