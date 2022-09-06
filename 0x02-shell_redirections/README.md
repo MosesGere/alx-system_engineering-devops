@@ -18,3 +18,4 @@ a script that deletes all the regular files with a .js extension that are presen
 \nDisplay all the lines in the file /etc/passwd that do not contain the pattern “bin”
 \nDisplay all lines of the file /etc/ssh/sshd_config starting with a letter.
 \nReplace all characters A and c from input to Z and e respectively.
+\nCreate a script that removes all letters c and C from input.
