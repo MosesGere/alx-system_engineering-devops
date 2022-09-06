@@ -19,3 +19,4 @@ a script that deletes all the regular files with a .js extension that are presen
 \nDisplay all lines of the file /etc/ssh/sshd_config starting with a letter.
 \nReplace all characters A and c from input to Z and e respectively.
 \nCreate a script that removes all letters c and C from input.
+\na script that reverse its input.
