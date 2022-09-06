@@ -14,3 +14,4 @@ a script that deletes all the regular files with a .js extension that are presen
 \na script that takes a list of words as input and prints only words that appear exactly once.
 \nDisplays lines containing the pattern “root” from the file /etc/passwd
 \nDisplay the number of lines that contain the pattern “bin” in the file /etc/passwd
+\nDisplay lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
