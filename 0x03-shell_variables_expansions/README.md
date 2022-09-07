@@ -8,3 +8,4 @@ A cript that creates a new local variable.
 A script that creates a new global variable.
 A script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 A script that converts a number from base 2 to base 10.
+A  script that prints all possible combinations of two letters, except oo.
